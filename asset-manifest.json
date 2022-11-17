@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tone-fun/static/css/main.073c9b0a.css",
+    "main.js": "/tone-fun/static/js/main.73ff381e.js",
+    "static/js/787.37dd9f1e.chunk.js": "/tone-fun/static/js/787.37dd9f1e.chunk.js",
+    "index.html": "/tone-fun/index.html",
+    "main.073c9b0a.css.map": "/tone-fun/static/css/main.073c9b0a.css.map",
+    "main.73ff381e.js.map": "/tone-fun/static/js/main.73ff381e.js.map",
+    "787.37dd9f1e.chunk.js.map": "/tone-fun/static/js/787.37dd9f1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.73ff381e.js"
+  ]
+}
